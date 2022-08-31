@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é João Paulo
 - 👀 Estou me adaptando e começando a procurar uma alocação no mercado de tecnologia.
-- 🌱 Estou estudando Python, Numpy, Pandas, HTML, JS e CSS, intensamente interessado em aprender mais e mais e me tornar um programador mais completo.
+- 🌱 Estou estudando Python, HTML, JS e CSS, React, Typescript, AWS entre outras tecnologias. Interessado em aprender mais e mais e me tornar um programador mais completo.
 - 💞️ Estou procurando projetos para poder participar e expandir meu portfólio e poder ajudar pessoas.
 - 📫 Meu email é joaoa@id.uff.br
